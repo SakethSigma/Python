@@ -1,5 +1,5 @@
 # Python
 
-2 games using Python on Jupyter Notebook:
+2 simple games on Python using functions and Class Objects:
 1. Tic-Tac-Toe
 2. BlackJack
